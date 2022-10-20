@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<ArrayOfProblem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Problem>
+    <question>Первый шаг при добавлении элемента в список?</question>
+    <trueAnswer>OptionA</trueAnswer>
+    <answer1>Выделить память под новый элемент</answer1>
+    <answer2>Освободить память из под старого первого элемента</answer2>
+    <answer3>Добавить элемент</answer3>
+    <answer4>Затрудняюсь ответить</answer4>
+  </Problem>
+  <Problem>
+    <question>Может ли список содержать 4 294 967 296 элементов типа Int?</question>
+    <trueAnswer>OptionD</trueAnswer>
+    <answer1>Нет</answer1>
+    <answer2>Да</answer2>
+    <answer3>Да, но только при размере элемента 1 байт</answer3>
+    <answer4>Да, но только при компиляции 64-разрядной версии программы</answer4>
+  </Problem>
+  <Problem>
+    <question>Может ли список содержать один элемент?</question>
+    <trueAnswer>OptionB</trueAnswer>
+    <answer1>Нет</answer1>
+    <answer2>Да</answer2>
+    <answer3>Да, но только при размере элемента меньше 1 Мб (размер стека по умолчанию)</answer3>
+    <answer4>Затрудняюсь ответить</answer4>
+  </Problem>
+  <Problem>
+    <question>Сложность вставки элемента в список?</question>
+    <trueAnswer>OptionB</trueAnswer>
+    <answer1>O(n)</answer1>
+    <answer2>O(1)</answer2>
+    <answer3>O(logn)</answer3>
+    <answer4>Затрудняюсь ответить</answer4>
+  </Problem>
+  <Problem>
+    <question>Могут ли в списке быть элементы с одинаковым полем данных?</question>
+    <trueAnswer>OptionA</trueAnswer>
+    <answer1>Да</answer1>
+    <answer2>Да, но с большими ограничениями по использованию памяти и процессорных ресурсов</answer2>
+    <answer3>Нет</answer3>
+    <answer4>Затрудняюсь ответить</answer4>
+  </Problem>
+  <Problem>
+    <question>Как начать поиск в однонаправленном нециклическом списке?</question>
+    <trueAnswer>OptionA</trueAnswer>
+    <answer1>Обратиться к первому элементу</answer1>
+    <answer2>Обратиться ко второму элементу</answer2>
+    <answer3>Обратиться к последнему элементу</answer3>
+    <answer4>Любой из вариантов</answer4>
+  </Problem>
+  <Problem>
+    <question>К чему приведет выполенение  операции delete[] дважды подряд к одной области памяти?</question>
+    <trueAnswer>OptionD</trueAnswer>
+    <answer1>К BSOD</answer1>
+    <answer2>К ошибке системного процесса Winlogon</answer2>
+    <answer3>К ошибке в приложении, которое расположено в памяти по соседству с Вашей программой работы со списком</answer3>
+    <answer4>К системной ошибке</answer4>
+  </Problem>
+  <Problem>
+    <question>Для доступа к однонаправленному списку используется его первый элемент. Указатель у первого элемента по ошибке направили сразу на третий. Можно ли получить доступ ко второму элементу?</question>
+    <trueAnswer>OptionB</trueAnswer>
+    <answer1>Да</answer1>
+    <answer2>Нет</answer2>
+    <answer3>Да, но для этого придется пройти весь список</answer3>
+    <answer4>Да, если поиск элемента реализовать на языке ассемблера</answer4>
+  </Problem>
+  <Problem>
+    <question>Для доступа к однонаправленному циклическому(кольцевому)списку используется его первый элемент. Указатель у первого элемента по ошибке направили сразу на третий. Можно ли получить доступ ко второму элементу?</question>
+    <trueAnswer>OptionA</trueAnswer>
+    <answer1>Нет</answer1>
+    <answer2>Да</answer2>
+    <answer3>Да, но для этого придется пройти весь список циклически</answer3>
+    <answer4>Да, но для этого нужно скомпилировать проект без опций оптимизации</answer4>
+  </Problem>
+  <Problem>
+    <question>Сложность поиска элемента в списке?</question>
+    <trueAnswer>OptionB</trueAnswer>
+    <answer1>O(logn)</answer1>
+    <answer2>O(n)</answer2>
+    <answer3>O(1)</answer3>
+    <answer4>Затрудняюсь ответить</answer4>
+  </Problem>
+</ArrayOfProblem>

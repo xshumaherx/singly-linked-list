@@ -1,0 +1,66 @@
+C:\Users\Сонька и Санька\source\repos\List\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\Users\Сонька и Санька\source\repos\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\Сонька и Санька\source\repos\List\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\Сонька и Санька\source\repos\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Сонька и Санька\source\repos\List\List\bin\Debug\List.exe.config
+C:\Users\Сонька и Санька\source\repos\List\List\bin\Debug\List.exe
+C:\Users\Сонька и Санька\source\repos\List\List\bin\Debug\List.pdb
+C:\Users\Сонька и Санька\source\repos\List\List\obj\Debug\List.exe
+C:\Users\Сонька и Санька\source\repos\List\List\obj\Debug\List.pdb
+C:\Users\Сонька и Санька\source\repos\List запас\List\bin\Debug\List.exe.config
+C:\Users\Сонька и Санька\source\repos\List запас\List\bin\Debug\List.exe
+C:\Users\Сонька и Санька\source\repos\List запас\List\bin\Debug\List.pdb
+C:\Users\Сонька и Санька\source\repos\List запас\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\Users\Сонька и Санька\source\repos\List запас\List\obj\Debug\List.Form1.resources
+C:\Users\Сонька и Санька\source\repos\List запас\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\Сонька и Санька\source\repos\List запас\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\Сонька и Санька\source\repos\List запас\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Сонька и Санька\source\repos\List запас\List\obj\Debug\List.exe
+C:\Users\Сонька и Санька\source\repos\List запас\List\obj\Debug\List.pdb
+C:\Users\Сонька и Санька\source\repos\List\List\obj\Debug\List.Form1.resources
+C:\Users\Сонька и Санька\source\repos\List\List\obj\Debug\List.Admin.resources
+C:\Users\Diman\Downloads\List (1)\List\List\bin\Debug\List.exe.config
+C:\Users\Diman\Downloads\List (1)\List\List\bin\Debug\List.exe
+C:\Users\Diman\Downloads\List (1)\List\List\bin\Debug\List.pdb
+C:\Users\Diman\Downloads\List (1)\List\List\obj\Debug\List.Admin.resources
+C:\Users\Diman\Downloads\List (1)\List\List\obj\Debug\List.Form1.resources
+C:\Users\Diman\Downloads\List (1)\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\Diman\Downloads\List (1)\List\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\Diman\Downloads\List (1)\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Diman\Downloads\List (1)\List\List\obj\Debug\List.exe
+C:\Users\Diman\Downloads\List (1)\List\List\obj\Debug\List.pdb
+D:\temp\List2\List\List\bin\Debug\List.exe.config
+D:\temp\List2\List\List\bin\Debug\List.exe
+D:\temp\List2\List\List\bin\Debug\List.pdb
+D:\temp\List2\List\List\obj\Debug\List.csprojAssemblyReference.cache
+D:\temp\List2\List\List\obj\Debug\List.Admin.resources
+D:\temp\List2\List\List\obj\Debug\List.Form1.resources
+D:\temp\List2\List\List\obj\Debug\List.Properties.Resources.resources
+D:\temp\List2\List\List\obj\Debug\List.csproj.GenerateResource.cache
+D:\temp\List2\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\temp\List2\List\List\obj\Debug\List.exe
+D:\temp\List2\List\List\obj\Debug\List.pdb
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\bin\Debug\List.exe.config
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\bin\Debug\List.exe
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\bin\Debug\List.pdb
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\obj\Debug\List.Admin.resources
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\obj\Debug\List.Form1.resources
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\obj\Debug\List.exe
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\obj\Debug\List.pdb
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\obj\Debug\List.password.resources
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\Users\Сонька и Санька\Desktop\List2 (1)\List2\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\bin\Debug\List.exe.config
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\bin\Debug\List.exe
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\bin\Debug\List.pdb
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\obj\Debug\List.Admin.resources
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\obj\Debug\List.Form1.resources
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\obj\Debug\List.password.resources
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\obj\Debug\List.Properties.Resources.resources
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\obj\Debug\List.csproj.GenerateResource.cache
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\obj\Debug\List.exe
+C:\Users\Сонька и Санька\Desktop\АГТУ\3 курс(1 семестр)\курсовой Лаптев\List2 (1)\List2\List\List\obj\Debug\List.pdb
